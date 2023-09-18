@@ -1,0 +1,88 @@
+[[rure]]
+arch = "aarch64"
+git-tree-sha1 = "a491944307a2448787bc03e6e5f3d8ef59de3321"
+os = "macos"
+
+    [[rure.download]]
+    sha256 = "48a8cb44bdaa726c2ee9c7eda9faf686cb0d56ea144c5517af844c42cd477333"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.aarch64-apple-darwin.tar.gz"
+[[rure]]
+arch = "aarch64"
+git-tree-sha1 = "3a11a2f26244dbbe6ee6bcfc41025ec4ab0e248b"
+libc = "glibc"
+os = "linux"
+
+    [[rure.download]]
+    sha256 = "99f6c12461ea0295db1a8755fd896e2965952fe20f35311f0cec11493eab846f"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.aarch64-linux-gnu.tar.gz"
+[[rure]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f722eef3cfc2997db109c1249e79e23cbc3b220e"
+libc = "glibc"
+os = "linux"
+
+    [[rure.download]]
+    sha256 = "b60b00455d52c3fefbc11aa1180a34fb50bd1d91904cbd7abbf4de78939633e9"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.armv6l-linux-gnueabihf.tar.gz"
+[[rure]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2ec4e9c72b9e1089d322d2c79f4121de268670b7"
+libc = "glibc"
+os = "linux"
+
+    [[rure.download]]
+    sha256 = "48e42e0a27a74585000aa07e7b7e3c2fa59c640f864e5e9e4acb0a82b54bc171"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.armv7l-linux-gnueabihf.tar.gz"
+[[rure]]
+arch = "i686"
+git-tree-sha1 = "132459135277be4bb1cbc147ed0a3dbd5d410e62"
+libc = "glibc"
+os = "linux"
+
+    [[rure.download]]
+    sha256 = "98ee5765d92f977e0fbc35d603cd9ae7c912adb5f4b0620d8a520442745be0fa"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.i686-linux-gnu.tar.gz"
+[[rure]]
+arch = "powerpc64le"
+git-tree-sha1 = "67cf8c6540ec86399f69e18a18d2ce0a03184695"
+libc = "glibc"
+os = "linux"
+
+    [[rure.download]]
+    sha256 = "7c607ce498cc224cfa7d5af1b7b709ed0461193b0bed2225b4666f2d2efdfedd"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.powerpc64le-linux-gnu.tar.gz"
+[[rure]]
+arch = "x86_64"
+git-tree-sha1 = "0af0720d4ba7036612f919bba564654fd94d9dd5"
+os = "macos"
+
+    [[rure.download]]
+    sha256 = "672b8952b8e2a9e8e774b6a8721fe116577797072a552e9118a5e5b24adaa839"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.x86_64-apple-darwin.tar.gz"
+[[rure]]
+arch = "x86_64"
+git-tree-sha1 = "aaffa5e4fd13eb28d9ad9ecac878067c9815a637"
+libc = "glibc"
+os = "linux"
+
+    [[rure.download]]
+    sha256 = "2876f56a29619f42ebde1a6b417b87bfaae9478312b564f013e5d3b96ee1aa5c"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.x86_64-linux-gnu.tar.gz"
+[[rure]]
+arch = "x86_64"
+git-tree-sha1 = "3c062a8641c27d8454d17894a7f9e7a249920d18"
+os = "freebsd"
+
+    [[rure.download]]
+    sha256 = "002b425c7cc8df48f8edd6f05fc41d187639ec2f50a87d904ad5f9ec5c29ccf9"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.x86_64-unknown-freebsd.tar.gz"
+[[rure]]
+arch = "x86_64"
+git-tree-sha1 = "c464fcdb55849e87d75304ef8843a638977967fa"
+os = "windows"
+
+    [[rure.download]]
+    sha256 = "1b2744b6a6a9950a8b6b914af2a74ee76f8628c1aa8b2c695ad6bfaed8dccaef"
+    url = "https://github.com/JuliaBinaryWrappers/rure_jll.jl/releases/download/rure-v0.2.2+0/rure.v0.2.2.x86_64-w64-mingw32.tar.gz"
